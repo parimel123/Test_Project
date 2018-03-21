@@ -360,4 +360,5 @@
   <TalendProperties:User xmi:id="_5qdKkCePEeiS3oYoq9p4ZA" login="pari@gmail.com" firstName="Pari" lastName="K" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_HVFGICwzEeitueYSxpFm-A" login="admin@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_HVFGISwzEeitueYSxpFm-A" login="admin@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_XxFLMS0HEeiMp9xgS11Yew" login="parimel@gmail.com" firstName="Parimel" lastName="k" type="DI" additionnalData="{}"/>
 </xmi:XMI>
